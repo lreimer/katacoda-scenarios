@@ -1,6 +1,8 @@
 {
   "title": "Building Microservices with Java EE 8",
   "description": "Learning how to build and run Java EE 8 microservices with Docker",
+  "difficulty": "beginner",
+  "time": "5 minutes",
   "details": {
     "steps": [
       { "title": "Compile microservice", "text": "step1.md" },
@@ -19,6 +21,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu"
   }
 }
